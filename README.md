@@ -1,2 +1,0 @@
-# springBootLearningParent
-Happy learning :)
